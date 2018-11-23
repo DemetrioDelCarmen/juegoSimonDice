@@ -7,7 +7,7 @@
         
 
         swal({
-            title: "Bienvenido!",
+            title: "Hola, espero que te diviertas!",
         });
 
         class Juego{
